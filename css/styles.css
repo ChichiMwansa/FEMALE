@@ -48,3 +48,8 @@ img {
 div {
        background-color: #F9DDD7;
 }
+.content{
+  margin-left: auto ;
+  margin-right: auto;
+  width: 1300px;
+}
