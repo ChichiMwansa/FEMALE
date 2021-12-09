@@ -40,6 +40,9 @@ img {
   padding-top: 1rem;
   padding bottom: 3rem;
 }
+.image-about{
+  padding-left: 0rem !important;
+}
 .fa{
   padding-left: 1rem;
   padding-right: 1rem;
